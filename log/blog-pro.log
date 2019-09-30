@@ -1,0 +1,7 @@
+2019-03-01 12:08:13.695  INFO 19128 --- [restartedMain] com.ezhar.BlogApplication                : Starting BlogApplication on DESKTOP-P6QHEH7 with PID 19128 (G:\blogServer\target\classes started by Ezhar in G:\blogServer)
+2019-03-01 12:08:13.696  INFO 19128 --- [restartedMain] com.ezhar.BlogApplication                : The following profiles are active: pro
+2019-03-01 12:08:17.382  WARN 19128 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-03-01 12:08:17.952  INFO 19128 --- [restartedMain] com.ezhar.BlogApplication                : Started BlogApplication in 4.913 seconds (JVM running for 6.067)
+2019-03-01 12:20:13.004  INFO 18332 --- [restartedMain] com.ezhar.BlogApplication                : Starting BlogApplication on DESKTOP-P6QHEH7 with PID 18332 (G:\blogServer\target\classes started by Ezhar in G:\blogServer)
+2019-03-01 12:20:13.005  INFO 18332 --- [restartedMain] com.ezhar.BlogApplication                : The following profiles are active: pro
+2019-03-01 12:20:17.347  INFO 18332 --- [restartedMain] com.ezhar.BlogApplication                : Started BlogApplication in 4.976 seconds (JVM running for 6.119)
